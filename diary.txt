@@ -1,1 +1,11 @@
-05/10/16	18:00	18:15	put the first real entry in diary.txt (delete this line!)
+24/10/16	22:00	24:00	deal with user's page
+25/10/16	24:00	04:00	deal with user's page, the posts and informations
+25/10/16	20:30	24:00	deal with CSS look
+26/10/16	24:00	03:30	mates list, display the image create the link, also some CSS work
+26/10/16	22:00	24:00	deal with search name
+27/10/16	24:00	06:30	use the cookie(login,logout), finish level 0/1, starting level 2, work with posts
+28/10/16	19:30	24:00	more work on level 2 like add comments
+29/10/16	24:00	02:30	complete module search the posts
+29/10/16	18:00	24:00	debugging
+30/10/16	24:00	06:00	finish add/remove mates, write comments for code
+30/10/16	14:50	16:00	test on cse machine with firefox, debugging

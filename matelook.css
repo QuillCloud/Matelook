@@ -9,26 +9,202 @@
  */
 
 .matelook_heading {
+    color: white;
     padding-top: 1em;
     padding-bottom: 1em;
     text-align: center;
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+
+.matelook_posts {
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    white-space: pre-wrap;
+    border-radius: 1em;
+    background-color: #1E90FF; 
+}
+
+
+.matelook_detail {
+    hite-space: pre-wrap;
+    color: white;
+    text-align: center;
+    font-size: 15pt;
+}
+.matelook_mates {
+    border-radius: 1em;
+    color: white;
+    front-size: x-large;
+    white-space: pre-wrap;
+    background-color: #00B2EE;
+    line-height: 40pt;
+    border:thin solid white;
+}
+
+.matelook_edit {
+    border-radius: 1em;
+    color: white;
+    text-align: center;
+    front-size: x-large;
+    white-space: pre-wrap;
+    background-color: #00B2EE;
+    line-height: 20pt;
+    border:thin solid white;
+    margin: auto;
+    width: 30%;
+}
+
+
+.click_log {
+    border-radius: 0.42em;
+    cursor:pointer;
+    color: white;
+    border:thin solid white;
+    outline:none;
+    font-size: 12pt;
+    background-color: #00B2EE;
+}
+.input_search {
+    border-radius: 0.42em;
+    color: white;
+    font-weight: bold;
+    border:thin solid white;
+    outline:none;
+    font-size: 12pt;
+    background-color: #00B2EE;
+}
+.make_post {
+    cursor:pointer;
+    color: white;
+    border:thin solid white;
+    outline:none;
+    font-size: 15pt;
+    background-color: #00B2EE;
+}
+.make_comment {
+    background-color: #1E90FF;
+    cursor:pointer;
+    color: white;
+    border:thin solid white;
+    outline:none;
+    font-size: 15pt;
+}
+
+.make_reply {
+    background-color: #1874CD;
+    cursor:pointer;
+    color: white;
+    border:thin solid white;
+    outline:none;
+    font-size: 15pt;
+}
+.click_name_b {
+    cursor:pointer;
+    color: white;
+    border:none;
+    outline:none;
+    font-size: 15pt;
+    background-color: #00B2EE;
+}
+
+.click_name_p {
+    background-color: #1E90FF;
+    cursor:pointer;
+    color: white;
+    border:none;
+    outline:none;
+    font-size: 15pt;
+}
+.click_name_c {
+    cursor:pointer;
+    color: white;
+    border:none;
+    outline:none;
+    font-size: 15pt;
+    background-color: #1874CD;
+}
+.click_name_r {
+    cursor:pointer;
+    color: white;
+    border:none;
+    outline:none;
+    font-size: 15pt;
+    background-color: #104E8B;
+}
+
+.image_button {
+    cursor:pointer;
+    border: none;
+    background-size:100% 100%;
+    
+}
+.matelook_search {
+    font-size: x-large;
+    text-align:left;
+}
+.edit {
+    white-space:pre-wrap;
+    font-sizze: x-large;
+}
+
+.search_page {
+    white-space:pre-wrap;
+    font-size: x-large;
+    float: center;
+    background-color: #00B2EE;
+}
+
+.matelook_body {
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+    background-color: #00B2EE;
+}
+
+.matelook_login {
+    text-align:right;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+}
+
+
+.matelook_comment {
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    white-space: pre-wrap;
+    border-radius: 1em;
+    background-color: #1874CD;
+}
+
+.matelook_reply {
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    white-space: pre-wrap;
+    border-radius: 1em;
+    background-color: #104E8B;
+}
+
+.textarea {
+    width: 60%;
+    color: white;
     font-size: x-large;
     font-weight: bold;
-    text-decoration: underline;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: #00B2EE;
+    resize: none;
 }
 
-.matelook_user_details {
-    background-color: #ABCDEF;
-    color: #204142;
-    white-space: pre;
-    border:thin solid #204142;
-    border-radius: 1em;
-    padding-left: 0.42em;
-}
-
-.matelook_button {
-    background-color: #FEDBCA;
-    border:thin solid #904142;
-    border-radius: 0.42em;
-    color: #904142;
+.com_rep_form {
+    white-space: pre-wrap;
+    text-align: center;
 }

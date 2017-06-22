@@ -1,0 +1,3 @@
+name = haha
+age = 3
+sex  = male
